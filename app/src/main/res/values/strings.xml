@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Institute Calender</string>
+    <string name="menu_settings">Settings</string>
+    <string name="even_year1">Jul-Nov 2016</string>
+    <string name="odd_year1">Jan-May 2016</string>
+    <string name="even_year2">Jul-Nov 2017</string>
+    <string name="odd_year2">Jan-May 2017</string>
+    <string name="calenders">IIT Madras Calendars</string>
+</resources>
